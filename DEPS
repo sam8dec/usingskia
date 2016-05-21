@@ -1,5 +1,5 @@
 vars = {
-    "skia_revision": "a6a8f00a3977e71dbce9da50a32c5e9a51c49285",
+    "skia_revision": "1a3619236b5363821b58698a8731168803bd29fe",
 }
 
 deps = {
